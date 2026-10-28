@@ -4,7 +4,7 @@ public class Main {
       
       // practicing using static methods from the Math class 
       /* ABSOLUTE VALUE 
-         int Math.abs(int x) 
+         int Math.abs(int x)  
          double Math.abs(double x)
       */ 
 
